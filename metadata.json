@@ -1,0 +1,6 @@
+{
+  "name": "AXION — Universal AI Engine",
+  "description": "Página oficial do AXION — Universal AI Engine. Plataforma de inteligência artificial para criar, programar e transformar ideias em projetos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
