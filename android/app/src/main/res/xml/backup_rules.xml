@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backup-rules>
+    <exclude domain="sharedpref" path="axion_secure_prefs.xml" />
+</backup-rules>

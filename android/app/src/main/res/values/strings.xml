@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AXION Remote</string>
+    <string name="accessibility_service_description">Permite ao AXION Remote receber comandos de mouse/toque do RealVNC Viewer e despachar gestos no celular.</string>
+    <string name="notification_channel_name">Servidor VNC</string>
+    <string name="notification_channel_desc">Notificação persistente durante a transmissão do servidor VNC</string>
+    <string name="notification_title">AXION Remote - Servidor Ativo</string>
+    <string name="notification_stop">Parar Servidor</string>
+</resources>

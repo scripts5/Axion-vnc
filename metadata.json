@@ -1,6 +1,6 @@
 {
-  "name": "AXION — Universal AI Engine",
-  "description": "Página oficial do AXION — Universal AI Engine. Plataforma de inteligência artificial para criar, programar e transformar ideias em projetos.",
+  "name": "AXION Remote — Servidor VNC/RFB Android",
+  "description": "Aplicativo Android nativo que transforma o celular em um servidor VNC/RFB autônomo com suporte a IPv6, MediaProjection e controle por AccessibilityService.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
